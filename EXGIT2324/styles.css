@@ -13,10 +13,12 @@ body{
 }
 
 .header{
-    background-color: pink;
+    background-color: #496ad8;
     color: #fdfdfd;
     text-align: center;
     padding: 20px;
+    font-family: “Lucida Console”, “Courier
+    New”, monospace;
    
 }
 
@@ -42,14 +44,13 @@ body{
 
 .contenido{
     padding: 15px;
-    font-size:40px;
     text-align: center;
-    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer{
     
-    background-color: yellow;
+    background-color: #aeb5ce;
     padding: 20px;
     clear: both;
 }
